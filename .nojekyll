@@ -1,0 +1,4 @@
+# GitHub Pages - No Jekyll
+# Este archivo indica a GitHub Pages que no use Jekyll
+# para procesar este sitio, permitiendo archivos que empiecen con _
+# y otros archivos que Jekyll normalmente ignoraría
